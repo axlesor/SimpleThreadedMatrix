@@ -1,7 +1,7 @@
 # SimpleThreadedMatrix
 Threaded matrix experiments
 
-Problem: Assuming BLAS/CUDA libraries do not exist, implement a high
+Problem: Assuming No BLAS/MKL/ATLAS/CUDA libraries exist, implement a high
 performance matrix transpose and multiplication in C++11 with threads
 
 Compile:
